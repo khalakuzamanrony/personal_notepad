@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ds">
+        <attr name="colorPrimary" format="color" />
+        <attr name="colorPrimaryDark" format="color" />
+        <attr name="colorAccent" format="color" />
+        <attr name="mainColor" format="color" />
+        <attr name="secondaryColor" format="color" />
+        <attr name="mainBackground" format="color" />
+        <attr name="transparent" format="color" />
+        <attr name="border_bg" format="color" />
+        <attr name="border_bg2" format="color" />
+        <attr name="placeholderColor" format="color" />
+        <attr name="ABcolor" format="color" />
+
+    </declare-styleable>
+</resources>

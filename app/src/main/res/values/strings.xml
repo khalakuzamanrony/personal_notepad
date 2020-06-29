@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="developer">Khalekuzzaman Rony</string>
+    <string name="deve_mail">khalakuzzamanrony@gmail.com</string>
+    <string name="help">1. You can Add note just by tapping on the Floating Button below \n\n
+                                                    2. You Can Save by Tapping on the Save Icon or Simply go back, Data will be Automatically Saved !\n\n
+                                                    3. You can Delete item by SWAPPING Right or Left(This Feature is Currently Under Development)\n\n
+                                                     4. Update your Data by tapping on to the item then tap anywhere to edit then Save or just go back , Data will be Automatically Saved  !\n\n
+                                                    5. You Can Change View By tapping on The HamBurger Icon on the Top\n\n
+    </string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="Empty_Message">No Notes Found ! \n Please Add Some Notes</string>
+</resources>

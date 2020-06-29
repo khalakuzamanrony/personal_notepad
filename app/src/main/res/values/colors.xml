@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DF0C9184</color>
+    <color name="colorPrimaryDark">#DF0C9184</color>
+    <color name="colorAccent">#DF0C9184</color>
+    <color name="mainColor">#DF0C9184</color>
+    <color name="secondaryColor">#A916655D</color>
+    <color name="mainBackground">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="border_bg">#AEA5AAA9</color>
+    <color name="border_bg2">#AEA5AAA9</color>
+    <color name="placeholderColor">#67118377</color>
+    <color name="ABcolor">#DF0C9184</color>
+    <!-- Dark-->
+    <color name="dcolorPrimary">#231f20</color>
+    <color name="dcolorPrimaryDark">#231f20</color>
+    <color name="dcolorAccent">#716161</color>
+    <color name="dmainColor">#DF0C9184</color>
+    <color name="dsecondaryColor">#DF0C9184</color>
+    <color name="dmainBackground">#231f20</color>
+    <color name="dtransparent">#00FFFFFF</color>
+    <color name="dborder_bg">#AEA5AAA9</color>
+    <color name="dplaceholderColor">#67118377</color>
+    <color name="dABcolor">#231f20</color>
+    <color name="dborder_bg2">#DF0C9184</color>
+
+
+    <!--
+     Custom Color
+
+     #231f20
+    353030
+
+
+    <color name="dcolorPrimary">#231f20</color>
+    <color name="dcolorPrimaryDark">#231f20</color>
+    <color name="dcolorAccent">#716161</color>
+    <color name="dmainColor">#385e3c</color>
+    <color name="dsecondaryColor">#385e3c</color>
+    <color name="dmainBackground">#231f20</color>
+    <color name="dtransparent">#00FFFFFF</color>
+    <color name="dborder_bg">#AEA5AAA9</color>
+    <color name="dplaceholderColor">#385e3c</color>
+    <color name="dABcolor">#231f20</color> -->
+</resources>

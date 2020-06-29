@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      android:padding="5dp"
+        android:background="?attr/mainBackground"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/profile_name_edit"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:background="@drawable/edit_text_bg"
+            android:hint="Name"
+            android:inputType="textMultiLine|textCapSentences"
+            android:padding="8dp"
+            android:textColor="@color/mainColor"
+            android:textColorHint="@color/placeholderColor"
+            android:textSize="30dp"
+            android:textStyle="italic" />
+
+        <EditText
+            android:id="@+id/profile_email_edit"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:background="@drawable/edit_text_bg"
+            android:hint="Email"
+            android:inputType="textMultiLine|textCapSentences"
+            android:padding="8dp"
+            android:textColor="@color/mainColor"
+            android:textColorHint="@color/placeholderColor"
+            android:textSize="30dp"
+            android:textStyle="italic" />
+    </LinearLayout>
+</LinearLayout>
