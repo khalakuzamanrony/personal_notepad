@@ -5,15 +5,18 @@ Its a sinple note taking app using SQLite database,,
 Basically CRUD (Create,Read,Update,Delete ) project!
 
 
+### **_//---Features---///_**
 
-//---Features---///
-###Add note,
-##Upadte
-##Delete
-###Initially deleted noted added to trash box,,and can be restored from there
-###**DARK MODE
-####Swap to delete !
-###Long press to rearrange positions !
+1. ### **Add note**
+2. ### **Upadte** 
+3. ### **Delete** 
+4. ### **Initially deleted noted added to trash box,,and can be restored from there**
+5. ### **DARK MODE** 
+6. ### **Swap to delete !** 
+7. ### **Long press to rearrange positions !**
+
+
+
 
 
 
